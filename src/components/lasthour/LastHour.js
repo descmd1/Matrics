@@ -44,7 +44,7 @@ const LastHour = () => {
         <div>
         <h5 className={classes.mobile}>Sales</h5>
         <h5 className={classes.mobile}>24 <span className={classes.ystday}>Current</span></h5>
-        <h5 className={classes.muted}>24 <span className={classes.ystday}>Previous</span></h5>
+        <h5 className={classes.muted}>26 <span className={classes.ystday}>Previous</span></h5>
         </div>
 
         <div className={classes.right2}>
