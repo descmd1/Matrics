@@ -1,0 +1,39 @@
+.metrics{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+}
+.error{
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+    justify-self: start;
+}
+
+
+h5{
+    color: black;
+    font-size: 16px;
+}
+
+h6{
+    color: black;
+    font-size: 14px;
+    font-weight: 100;
+}
+.metrix{
+    display: flex;
+    flex-direction: row;
+    gap: 194px;
+    margin-top: -56px;
+    justify-self: start;
+    margin-left: 2.5%;
+    
+}
+.avarage{
+    font-weight: 100;
+}
+.zero{
+    margin-left: 150px;
+}

@@ -1,0 +1,87 @@
+.lastfriday1{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    text-align: start;
+    line-height: 2px;
+}
+
+.lastfriday2{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    text-align: start;
+    border: 1px solid whitesmoke;
+    line-height: 2px;
+}
+
+.lastfriday3{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    text-align: start;
+    line-height: 2px;
+}
+
+.mobile{
+    font-size: 16px;
+    font-weight: 600;
+}
+.muted{
+    font-size: 16px;
+    font-weight: 100;
+    
+}
+.help{
+    font-size: 14px;
+    font-weight: 200; 
+}
+.spans{
+    font-size: 14px;
+    font-weight: 200; 
+    color: #2196f3;
+}
+.click{
+    font-size: 16px;
+    font-weight: 200; 
+    color: #ff7371
+}
+.btn{
+    border-radius: 50px;
+    width: 40px;
+    background-color: #ff7371;
+    color: white;
+}
+
+
+.five{
+    border-radius: 50px;
+    width: 40px;
+    color: white;
+    background-color: #8bc34a;
+    font-size: 14px;
+    font-weight: 200;
+}
+.ovals1{
+    margin-top: -49px;
+}
+.ovals2{
+    margin-top: -40px;
+}
+.ovals3{
+    margin-top: -65px;
+}
+.ystday{
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.right{
+    margin-left: 19%;
+}
+.right1{
+    margin-left: 15%;
+}
+.right2{
+    margin-left: 19.5%;
+}

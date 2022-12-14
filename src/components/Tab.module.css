@@ -1,0 +1,25 @@
+.tab{
+   width: 90px; 
+   height: 40px;
+   background-color: white;
+   border:3px solid whitesmoke;
+   cursor: pointer;
+}
+
+.tab:hover,
+.tab:active,
+.tab:focus {
+  background-color: #2196f3;
+  transition: 0.7s;
+  color: white;
+}
+
+.tabdiv{
+    display: flex;
+    flex-direction: row;
+    justify-self: start;
+}
+h2{
+    color: rgb(94, 92, 92);
+    text-align: start;
+}

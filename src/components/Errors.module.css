@@ -1,0 +1,11 @@
+.boxes{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.errorbox{
+    margin-left: 40px;
+}
+.box1{
+    background-color: yellow;
+}
